@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+config.py
+ethereum.sql
+ethereumbot.conf
+sv_ethereumbot.conf

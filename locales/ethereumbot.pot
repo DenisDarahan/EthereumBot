@@ -1,0 +1,304 @@
+# Translations template for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-05-24 22:16+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../ethereum/block_worker/parser.py:53
+msgid "withdraw_message"
+msgstr ""
+
+#: ../../ethereumbot/block_worker/parser.py:65
+msgid "replenishment_message"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/base.py:21
+#: ../../ethereum/botapp/handlers/user/base.py:33
+msgid "start_message"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:10
+#: ../../ethereum/botapp/markups/user/base.py:15
+msgid "add_wallet_button"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:14
+msgid "ask_get_wallet_number"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:18
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:58
+#: ../../ethereum/botapp/markups/user/base.py:23
+#: ../../ethereum/botapp/markups/user/base.py:30
+msgid "cancel_button"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:23
+msgid "cancel_get_wallet"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:33
+msgid "ask_get_wallet_name"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:36
+msgid "wallet_number_not_valid_error"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:39
+#: ../../ethereum/botapp/markups/user/base.py:29
+msgid "skip_button"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:56
+msgid "success_register_wallet"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/add_wallet/base.py:60
+msgid "wallet_number_not_found_error"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:8
+#: ../../ethereum/botapp/markups/user/base.py:16
+msgid "manage_wallets_button"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:14
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:68
+msgid "absent_wallets_error"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:18
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:65
+msgid "manage_wallets"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:24
+msgid "ask_user_wait_for_wallet_info"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:31
+msgid "get_user_wallet"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:36
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:33
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:52
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:71
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:90
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:109
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:127
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:158
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:170
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:198
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:240
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:25
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:43
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:117
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:138
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:151
+msgid "wallet_not_found_error"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:43
+msgid "ask_delete_wallet"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:51
+msgid "success_wallet_delete"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/base.py:57
+msgid "cancel_wallet_delete"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:23
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:42
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:61
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:80
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:99
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:147
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:186
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:229
+msgid "ask_wait_history"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:27
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:46
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:65
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:84
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:103
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:152
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:192
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:211
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:234
+msgid "get_transactions_history"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:28
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:47
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:27
+msgid "get_norm_trs_button"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:66
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:29
+msgid "get_in_trs_button"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:85
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:31
+msgid "get_erc20_trs_button"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:104
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:33
+msgid "get_erc721_trs_button"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_history.py:217
+msgid "transactions_data_not_found_error"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:17
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:35
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:109
+msgid "wallet_notifications"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:20
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:38
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:111
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:124
+msgid "tr_type_in"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:54
+msgid "ask_get_min_amount"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:61
+msgid "cancel_get_amount"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:75
+msgid "wrong_amount_error"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:79
+msgid "success_get_amount"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:89
+msgid "ask_get_tr_type"
+msgstr ""
+
+#: ../../ethereum/botapp/handlers/user/manage_wallets/wallet_notifications.py:107
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:101
+msgid "notifications_filters"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:15
+msgid "wallet_history_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:17
+msgid "wallet_notifications_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:19
+msgid "delete_wallet_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:20
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:41
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:51
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:76
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:95
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:108
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:118
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:130
+msgid "back_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:37
+msgid "history_filters_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:39
+msgid "last_trs_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:47
+msgid "history_records_number_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:49
+msgid "history_show_participant_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:64
+msgid "done_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:72
+msgid "show_participant_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:74
+msgid "not_show_participant_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:103
+msgid "off_notify_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:103
+msgid "on_notify_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:106
+msgid "on_sound_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:106
+msgid "off_sound_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:114
+msgid "change_nf_amount_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:116
+msgid "change_nf_tr_type_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:126
+msgid "tr_type_out"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:128
+msgid "tr_type_inout"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:138
+msgid "accept_delete_button"
+msgstr ""
+
+#: ../../ethereum/botapp/markups/user/manage_wallets.py:139
+msgid "decline_delete_button"
+msgstr ""
+
